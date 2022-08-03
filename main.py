@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 
 import time
 
-EXTENSION_PATH = 'C:/Users/Crih/Documents/consola/automatic-project/metamask/10.17.0-Crx4Chrome.com.crx'
+EXTENSION_PATH = 'C:\......INSERT YOUR PATH HERE'
 
 opt = Options()
 opt.add_extension(EXTENSION_PATH)
